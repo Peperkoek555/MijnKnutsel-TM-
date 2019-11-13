@@ -1,0 +1,89 @@
+[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:32:48] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:32:48] [Server thread/INFO]: Loading properties
+[18:32:48] [Server thread/INFO]: Default game type: SURVIVAL
+[18:32:48] [Server thread/INFO]: Generating keypair
+[18:32:48] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:32:48] [Server thread/INFO]: Using default channel type
+[18:32:48] [Server thread/INFO]: Preparing level "world"
+[18:32:49] [Server thread/WARN]: Couldn't get pack info for: wn: 'pack.mcmeta' in ResourcePack '.\world\datapacks\VanillaTweaks_d821170_UNZIP_ME.zip'
+[18:32:49] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, more mob heads v2.1.0.zip, tag v2.0.0.zip, player head drops v1.0.0.zip, kill empty boats v1.0.0.zip, afk display v1.0.1.zip, villager workstation highlights v1.0.0.zip, multiplayer sleep v1.0.1.zip
+[18:32:49] [Server thread/INFO]: Loaded 6 recipes
+[18:32:50] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[18:32:50] [Server thread/INFO]: Loaded 63 custom command functions
+[18:32:50] [Server thread/INFO]: Loaded 823 advancements
+[18:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-2/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[18:32:57] [Server thread/INFO]: Preparing spawn area: 48%
+[18:32:57] [Server thread/INFO]: Time elapsed: 6268 ms
+[18:32:57] [Server thread/INFO]: Done (8.708s)! For help, type "help"
+[18:50:07] [User Authenticator #1/INFO]: UUID of player Nobece is 7f204254-5fb2-4cb7-817c-644d95163ace
+[18:50:07] [Server thread/INFO]: Nobece[/25.41.93.76:51321] logged in with entity id 120 at (-759.9797439164494, 66.0, -896.9311455405394)
+[18:50:07] [Server thread/INFO]: Nobece joined the game
+[18:55:07] [Server thread/INFO]: Nobece lost connection: Disconnected
+[18:55:07] [Server thread/INFO]: Nobece left the game
+[19:27:49] [User Authenticator #2/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[19:27:50] [Server thread/INFO]: peperkoek555[/25.39.219.12:51446] logged in with entity id 1318 at (1216.6670360399078, 69.0, -754.0602244304677)
+[19:27:50] [Server thread/INFO]: peperkoek555 joined the game
+[19:32:10] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[19:32:10] [Server thread/INFO]: peperkoek555 left the game
+[19:47:44] [User Authenticator #3/INFO]: UUID of player KKimchiFriedRice is 742500c2-3e46-4002-a583-3edcc766bd6d
+[19:47:44] [Server thread/INFO]: KKimchiFriedRice[/25.57.250.33:50162] logged in with entity id 3454 at (-80.55593309447991, 67.0, -462.5616511746675)
+[19:47:44] [Server thread/INFO]: KKimchiFriedRice joined the game
+[20:18:45] [User Authenticator #4/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[20:18:45] [Server thread/INFO]: peperkoek555[/25.39.219.12:51744] logged in with entity id 11067 at (-879.499896579797, 63.0, -303.86527630789925)
+[20:18:45] [Server thread/INFO]: peperkoek555 joined the game
+[20:20:45] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[20:20:45] [Server thread/INFO]: peperkoek555 left the game
+[20:22:10] [User Authenticator #5/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[20:22:10] [Server thread/INFO]: peperkoek555[/25.39.219.12:51784] logged in with entity id 12182 at (-880.0248942990552, 64.0, -301.3499191632297)
+[20:22:10] [Server thread/INFO]: peperkoek555 joined the game
+[20:22:17] [Server thread/INFO]: <peperkoek555> WADUUP
+[20:23:21] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[20:23:21] [Server thread/INFO]: peperkoek555 left the game
+[20:26:38] [Server thread/INFO]: <KKimchiFriedRice> lol welp
+[20:29:22] [Server thread/WARN]: KKimchiFriedRice moved too quickly! 8.389854173134196,-1.0,-5.657381184399583
+[20:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6392ms or 127 ticks behind
+[20:33:40] [Server thread/INFO]: KKimchiFriedRice was shot by Skeleton
+[20:45:18] [User Authenticator #6/INFO]: UUID of player Nobece is 7f204254-5fb2-4cb7-817c-644d95163ace
+[20:45:19] [Server thread/INFO]: Nobece[/25.41.93.76:54010] logged in with entity id 18975 at (-778.8827580240885, 72.0, -898.5813385291448)
+[20:45:19] [Server thread/INFO]: Nobece joined the game
+[20:45:26] [Server thread/INFO]: Nobece lost connection: Disconnected
+[20:45:26] [Server thread/INFO]: Nobece left the game
+[20:51:40] [Server thread/INFO]: KKimchiFriedRice lost connection: Timed out
+[20:51:40] [Server thread/INFO]: KKimchiFriedRice left the game
+[20:54:50] [User Authenticator #7/INFO]: UUID of player KKimchiFriedRice is 742500c2-3e46-4002-a583-3edcc766bd6d
+[20:54:50] [Server thread/INFO]: KKimchiFriedRice[/25.57.250.33:50440] logged in with entity id 20781 at (-78.05483890212902, 67.0, -463.58820152521855)
+[20:54:50] [Server thread/INFO]: KKimchiFriedRice joined the game
+[21:18:51] [Server thread/WARN]: KKimchiFriedRice moved too quickly! 9.681245825251494,-2.0013359791121417,2.8616610335536734
+[21:21:17] [Server thread/INFO]: KKimchiFriedRice lost connection: Disconnected
+[21:21:17] [Server thread/INFO]: KKimchiFriedRice left the game
+[22:42:18] [Server thread/INFO]: [Server] nog iemand on?
+[22:42:28] [Server thread/INFO]: Stopping the server
+[22:42:29] [Server thread/INFO]: Stopping server
+[22:42:29] [Server thread/INFO]: Saving players
+[22:42:29] [Server thread/INFO]: Saving worlds
+[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
