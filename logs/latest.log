@@ -1,89 +1,221 @@
-[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:32:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:32:48] [Server thread/INFO]: Starting minecraft server version 1.14.4
-[18:32:48] [Server thread/INFO]: Loading properties
-[18:32:48] [Server thread/INFO]: Default game type: SURVIVAL
-[18:32:48] [Server thread/INFO]: Generating keypair
-[18:32:48] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:32:48] [Server thread/INFO]: Using default channel type
-[18:32:48] [Server thread/INFO]: Preparing level "world"
-[18:32:49] [Server thread/WARN]: Couldn't get pack info for: wn: 'pack.mcmeta' in ResourcePack '.\world\datapacks\VanillaTweaks_d821170_UNZIP_ME.zip'
-[18:32:49] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, more mob heads v2.1.0.zip, tag v2.0.0.zip, player head drops v1.0.0.zip, kill empty boats v1.0.0.zip, afk display v1.0.1.zip, villager workstation highlights v1.0.0.zip, multiplayer sleep v1.0.1.zip
-[18:32:49] [Server thread/INFO]: Loaded 6 recipes
-[18:32:50] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
-[18:32:50] [Server thread/INFO]: Loaded 63 custom command functions
-[18:32:50] [Server thread/INFO]: Loaded 823 advancements
-[18:32:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:52] [Server thread/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-2/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server-Worker-1/INFO]: Preparing spawn area: 0%
-[18:32:57] [Server thread/INFO]: Preparing spawn area: 48%
-[18:32:57] [Server thread/INFO]: Time elapsed: 6268 ms
-[18:32:57] [Server thread/INFO]: Done (8.708s)! For help, type "help"
-[18:50:07] [User Authenticator #1/INFO]: UUID of player Nobece is 7f204254-5fb2-4cb7-817c-644d95163ace
-[18:50:07] [Server thread/INFO]: Nobece[/25.41.93.76:51321] logged in with entity id 120 at (-759.9797439164494, 66.0, -896.9311455405394)
-[18:50:07] [Server thread/INFO]: Nobece joined the game
-[18:55:07] [Server thread/INFO]: Nobece lost connection: Disconnected
-[18:55:07] [Server thread/INFO]: Nobece left the game
-[19:27:49] [User Authenticator #2/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
-[19:27:50] [Server thread/INFO]: peperkoek555[/25.39.219.12:51446] logged in with entity id 1318 at (1216.6670360399078, 69.0, -754.0602244304677)
-[19:27:50] [Server thread/INFO]: peperkoek555 joined the game
-[19:32:10] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
-[19:32:10] [Server thread/INFO]: peperkoek555 left the game
-[19:47:44] [User Authenticator #3/INFO]: UUID of player KKimchiFriedRice is 742500c2-3e46-4002-a583-3edcc766bd6d
-[19:47:44] [Server thread/INFO]: KKimchiFriedRice[/25.57.250.33:50162] logged in with entity id 3454 at (-80.55593309447991, 67.0, -462.5616511746675)
-[19:47:44] [Server thread/INFO]: KKimchiFriedRice joined the game
-[20:18:45] [User Authenticator #4/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
-[20:18:45] [Server thread/INFO]: peperkoek555[/25.39.219.12:51744] logged in with entity id 11067 at (-879.499896579797, 63.0, -303.86527630789925)
-[20:18:45] [Server thread/INFO]: peperkoek555 joined the game
-[20:20:45] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
-[20:20:45] [Server thread/INFO]: peperkoek555 left the game
-[20:22:10] [User Authenticator #5/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
-[20:22:10] [Server thread/INFO]: peperkoek555[/25.39.219.12:51784] logged in with entity id 12182 at (-880.0248942990552, 64.0, -301.3499191632297)
-[20:22:10] [Server thread/INFO]: peperkoek555 joined the game
-[20:22:17] [Server thread/INFO]: <peperkoek555> WADUUP
-[20:23:21] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
-[20:23:21] [Server thread/INFO]: peperkoek555 left the game
-[20:26:38] [Server thread/INFO]: <KKimchiFriedRice> lol welp
-[20:29:22] [Server thread/WARN]: KKimchiFriedRice moved too quickly! 8.389854173134196,-1.0,-5.657381184399583
-[20:29:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6392ms or 127 ticks behind
-[20:33:40] [Server thread/INFO]: KKimchiFriedRice was shot by Skeleton
-[20:45:18] [User Authenticator #6/INFO]: UUID of player Nobece is 7f204254-5fb2-4cb7-817c-644d95163ace
-[20:45:19] [Server thread/INFO]: Nobece[/25.41.93.76:54010] logged in with entity id 18975 at (-778.8827580240885, 72.0, -898.5813385291448)
-[20:45:19] [Server thread/INFO]: Nobece joined the game
-[20:45:26] [Server thread/INFO]: Nobece lost connection: Disconnected
-[20:45:26] [Server thread/INFO]: Nobece left the game
-[20:51:40] [Server thread/INFO]: KKimchiFriedRice lost connection: Timed out
-[20:51:40] [Server thread/INFO]: KKimchiFriedRice left the game
-[20:54:50] [User Authenticator #7/INFO]: UUID of player KKimchiFriedRice is 742500c2-3e46-4002-a583-3edcc766bd6d
-[20:54:50] [Server thread/INFO]: KKimchiFriedRice[/25.57.250.33:50440] logged in with entity id 20781 at (-78.05483890212902, 67.0, -463.58820152521855)
-[20:54:50] [Server thread/INFO]: KKimchiFriedRice joined the game
-[21:18:51] [Server thread/WARN]: KKimchiFriedRice moved too quickly! 9.681245825251494,-2.0013359791121417,2.8616610335536734
-[21:21:17] [Server thread/INFO]: KKimchiFriedRice lost connection: Disconnected
-[21:21:17] [Server thread/INFO]: KKimchiFriedRice left the game
-[22:42:18] [Server thread/INFO]: [Server] nog iemand on?
-[22:42:28] [Server thread/INFO]: Stopping the server
-[22:42:29] [Server thread/INFO]: Stopping server
-[22:42:29] [Server thread/INFO]: Saving players
-[22:42:29] [Server thread/INFO]: Saving worlds
-[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:42:29] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:42:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:15:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:15:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:15:12] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[15:15:12] [Server thread/INFO]: Loading properties
+[15:15:12] [Server thread/INFO]: Default game type: SURVIVAL
+[15:15:12] [Server thread/INFO]: Generating keypair
+[15:15:12] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: De ingang is ongeldig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[15:15:13] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:15:13] [Server thread/INFO]: Using default channel type
+[15:15:15] [Server thread/INFO]: Preparing level "world"
+[15:15:16] [Server thread/WARN]: Couldn't get pack info for: wn: 'pack.mcmeta' in ResourcePack '.\world\datapacks\VanillaTweaks_d821170_UNZIP_ME.zip'
+[15:15:16] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, more mob heads v2.1.0.zip, tag v2.0.0.zip, player head drops v1.0.0.zip, kill empty boats v1.0.0.zip, afk display v1.0.1.zip, villager workstation highlights v1.0.0.zip, multiplayer sleep v1.0.1.zip
+[15:15:19] [Server thread/INFO]: Loaded 6 recipes
+[15:15:20] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[15:15:20] [Server thread/INFO]: Loaded 63 custom command functions
+[15:15:20] [Server thread/INFO]: Loaded 823 advancements
+[15:15:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:15:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:22] [Server thread/INFO]: Preparing spawn area: 0%
+[15:15:23] [Server thread/INFO]: Time elapsed: 2545 ms
+[15:15:23] [Server thread/INFO]: Done (7.565s)! For help, type "help"
+[15:30:52] [User Authenticator #1/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[15:30:52] [Server thread/INFO]: peperkoek555[/25.39.219.12:57871] logged in with entity id 113 at (-851.4723494272613, 63.0, -351.9327765246681)
+[15:30:52] [Server thread/INFO]: peperkoek555 joined the game
+[15:30:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[15:31:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[15:32:33] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[15:32:33] [Server thread/INFO]: peperkoek555 left the game
+[15:38:13] [User Authenticator #2/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[15:38:13] [Server thread/INFO]: peperkoek555[/25.39.219.12:58015] logged in with entity id 539 at (-816.7282070995916, 64.0, -349.3006550326312)
+[15:38:13] [Server thread/INFO]: peperkoek555 joined the game
+[15:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[15:46:55] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[15:46:55] [Server thread/INFO]: peperkoek555 left the game
+[15:51:07] [User Authenticator #3/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[15:51:07] [Server thread/INFO]: peperkoek555[/25.39.219.12:58048] logged in with entity id 2760 at (-828.2991134725322, 63.0, -346.2626526488236)
+[15:51:07] [Server thread/INFO]: peperkoek555 joined the game
+[15:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[15:57:29] [User Authenticator #4/INFO]: UUID of player KKimchiFriedRice is 742500c2-3e46-4002-a583-3edcc766bd6d
+[15:57:29] [Server thread/INFO]: KKimchiFriedRice[/25.57.250.33:59195] logged in with entity id 4692 at (-87.45625814138533, 64.0, -417.0908924823811)
+[15:57:29] [Server thread/INFO]: KKimchiFriedRice joined the game
+[15:57:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[15:57:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4631ms or 92 ticks behind
+[15:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5874ms or 117 ticks behind
+[15:58:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4417ms or 88 ticks behind
+[15:58:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15:59:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2040ms or 40 ticks behind
+[16:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[16:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5220ms or 104 ticks behind
+[16:00:25] [Server thread/WARN]: KKimchiFriedRice moved too quickly! 0.22911643801419057,-1.1661092609382138,-10.179244474797201
+[16:01:04] [Server thread/WARN]: KKimchiFriedRice moved too quickly! -10.347025047981035,-0.23052736891295922,-0.2983143653541305
+[16:01:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3277ms or 65 ticks behind
+[16:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2841ms or 56 ticks behind
+[16:06:53] [Server thread/INFO]: KKimchiFriedRice was slain by Guardian
+[16:07:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[16:07:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15300ms or 306 ticks behind
+[16:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3584ms or 71 ticks behind
+[16:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2761ms or 55 ticks behind
+[16:08:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[16:08:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[16:09:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[16:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2665ms or 53 ticks behind
+[16:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[16:11:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5193ms or 103 ticks behind
+[16:11:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[16:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5697ms or 113 ticks behind
+[16:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5373ms or 107 ticks behind
+[16:12:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2212ms or 44 ticks behind
+[16:14:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[16:14:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2860ms or 57 ticks behind
+[16:15:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:15:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2989ms or 59 ticks behind
+[16:15:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2149ms or 42 ticks behind
+[16:16:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3502ms or 70 ticks behind
+[16:16:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[16:16:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[16:17:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:17:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2472ms or 49 ticks behind
+[16:17:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4741ms or 94 ticks behind
+[16:18:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3039ms or 60 ticks behind
+[16:18:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[16:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2933ms or 58 ticks behind
+[16:18:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
+[16:19:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2626ms or 52 ticks behind
+[16:19:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:20:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[16:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[16:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[16:24:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2329ms or 46 ticks behind
+[16:24:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7082ms or 141 ticks behind
+[16:24:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
+[16:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3892ms or 77 ticks behind
+[16:25:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5831ms or 116 ticks behind
+[16:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3674ms or 73 ticks behind
+[16:26:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[16:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8004ms or 160 ticks behind
+[16:26:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7450ms or 149 ticks behind
+[16:27:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6628ms or 132 ticks behind
+[16:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6552ms or 131 ticks behind
+[16:27:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5870ms or 117 ticks behind
+[16:28:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2554ms or 51 ticks behind
+[16:28:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4464ms or 89 ticks behind
+[16:29:10] [Server thread/WARN]: peperkoek555 moved too quickly! 0.30680939254912687,1.2000000476837158,10.042152439415915
+[16:29:10] [Server thread/WARN]: KKimchiFriedRice moved too quickly! -0.2657275030386188,0.265495306383869,10.274983098134527
+[16:29:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2278ms or 45 ticks behind
+[16:29:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:31:19] [Server thread/INFO]: KKimchiFriedRice was slain by Guardian
+[16:31:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[16:31:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13227ms or 264 ticks behind
+[16:32:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9243ms or 184 ticks behind
+[16:32:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7203ms or 144 ticks behind
+[16:32:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5162ms or 103 ticks behind
+[16:33:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[16:34:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2370ms or 47 ticks behind
+[16:39:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[16:39:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9619ms or 192 ticks behind
+[16:39:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7103ms or 142 ticks behind
+[16:40:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4565ms or 91 ticks behind
+[16:40:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4044ms or 80 ticks behind
+[16:40:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[16:46:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
+[16:46:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10378ms or 207 ticks behind
+[16:46:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7999ms or 159 ticks behind
+[16:47:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
+[16:47:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6488ms or 129 ticks behind
+[16:48:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7729ms or 154 ticks behind
+[16:48:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8919ms or 178 ticks behind
+[16:48:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7344ms or 146 ticks behind
+[16:49:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7280ms or 145 ticks behind
+[16:49:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5513ms or 110 ticks behind
+[16:49:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5776ms or 115 ticks behind
+[16:50:11] [Server thread/INFO]: KKimchiFriedRice was slain by Guardian
+[16:50:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[16:50:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[16:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12813ms or 256 ticks behind
+[16:51:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7480ms or 149 ticks behind
+[16:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4781ms or 95 ticks behind
+[16:52:12] [Server thread/WARN]: peperkoek555 moved too quickly! -17.594483929590183,-2.4726367834581424,1.2768361637233738
+[16:52:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2694ms or 53 ticks behind
+[16:53:19] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[16:53:19] [Server thread/INFO]: peperkoek555 left the game
+[16:57:39] [User Authenticator #5/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[16:57:39] [Server thread/INFO]: peperkoek555[/25.39.219.12:58532] logged in with entity id 23702 at (-816.3693194075894, 63.5625, -351.63652580664143)
+[16:57:39] [Server thread/INFO]: peperkoek555 joined the game
+[16:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[16:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[17:02:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[17:02:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:06:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3740ms or 74 ticks behind
+[17:10:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17:11:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11983ms or 239 ticks behind
+[17:11:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9278ms or 185 ticks behind
+[17:12:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7276ms or 145 ticks behind
+[17:12:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4651ms or 93 ticks behind
+[17:12:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:13:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:16:59] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[17:16:59] [Server thread/INFO]: peperkoek555 left the game
+[17:17:39] [User Authenticator #6/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[17:17:39] [Server thread/INFO]: peperkoek555[/25.39.219.12:58636] logged in with entity id 30693 at (-854.249469440618, 63.0, -351.41971328484556)
+[17:17:39] [Server thread/INFO]: peperkoek555 joined the game
+[17:18:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[17:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
+[17:22:12] [Server thread/WARN]: peperkoek555 moved too quickly! -10.008030136022398,0.7531999805212024,-0.5036976071732511
+[17:22:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2642ms or 52 ticks behind
+[17:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[17:29:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[17:32:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[17:32:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4490ms or 89 ticks behind
+[17:32:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[17:36:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:40:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[17:40:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:40:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
+[17:41:16] [Server thread/INFO]: KKimchiFriedRice was killed by Guardian using magic
+[17:41:19] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[17:41:19] [Server thread/INFO]: peperkoek555 left the game
+[17:42:47] [User Authenticator #7/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[17:42:47] [Server thread/INFO]: peperkoek555[/25.39.219.12:58916] logged in with entity id 36874 at (-878.5475142908401, 54.164585127545806, -349.6388125519046)
+[17:42:47] [Server thread/INFO]: peperkoek555 joined the game
+[17:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:46:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:48:56] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[17:48:56] [Server thread/INFO]: peperkoek555 left the game
+[17:49:01] [Server thread/INFO]: KKimchiFriedRice lost connection: Disconnected
+[17:49:01] [Server thread/INFO]: KKimchiFriedRice left the game
+[17:52:50] [Server thread/INFO]: Stopping server
+[17:52:50] [Server thread/INFO]: Saving players
+[17:52:50] [Server thread/INFO]: Saving worlds
+[17:52:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:52:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:52:50] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:52:50] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
