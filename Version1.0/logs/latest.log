@@ -1,0 +1,58 @@
+[18:09:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:09:34] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:09:34] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[18:09:34] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[18:09:36] [Server thread/INFO]: Starting minecraft server version 1.14.4
+[18:09:36] [Server thread/INFO]: Loading properties
+[18:09:36] [Server thread/INFO]: Default game type: SURVIVAL
+[18:09:36] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: De ingang is ongeldig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at uk$2.run(SourceFile:109) [server.jar:?]
+[18:09:36] [Server thread/INFO]: Generating keypair
+[18:09:37] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:09:37] [Server thread/INFO]: Using default channel type
+[18:09:41] [Server thread/INFO]: Preparing level "world"
+[18:09:42] [Server thread/WARN]: Couldn't get pack info for: wn: 'pack.mcmeta' in ResourcePack '.\world\datapacks\VanillaTweaks_d821170_UNZIP_ME.zip'
+[18:09:42] [Server thread/INFO]: Reloading ResourceManager: Default, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, more mob heads v2.1.0.zip, tag v2.0.0.zip, player head drops v1.0.0.zip, kill empty boats v1.0.0.zip, afk display v1.0.1.zip, villager workstation highlights v1.0.0.zip, multiplayer sleep v1.0.1.zip
+[18:09:44] [Server thread/INFO]: Loaded 6 recipes
+[18:09:45] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[18:09:45] [Server thread/INFO]: Loaded 63 custom command functions
+[18:09:45] [Server thread/INFO]: Loaded 823 advancements
+[18:09:45] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:09:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:46] [Server thread/INFO]: Preparing spawn area: 0%
+[18:09:47] [Server thread/INFO]: Preparing spawn area: 52%
+[18:09:47] [Server thread/INFO]: Time elapsed: 1798 ms
+[18:09:47] [Server thread/INFO]: Done (5.539s)! For help, type "help"
+[18:10:52] [User Authenticator #1/INFO]: UUID of player peperkoek555 is c7d8a932-327d-4feb-838e-9f112969b5e7
+[18:10:52] [Server thread/INFO]: peperkoek555[/25.39.219.12:62347] logged in with entity id 117 at (-832.6509788218234, 63.0, -351.81690381781414)
+[18:10:52] [Server thread/INFO]: peperkoek555 joined the game
+[18:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[18:11:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2339ms or 46 ticks behind
+[18:14:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2771ms or 55 ticks behind
+[18:27:45] [Server thread/INFO]: peperkoek555 lost connection: Disconnected
+[18:27:45] [Server thread/INFO]: peperkoek555 left the game
+[18:30:39] [Server thread/INFO]: Stopping server
+[18:30:39] [Server thread/INFO]: Saving players
+[18:30:39] [Server thread/INFO]: Saving worlds
+[18:30:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:30:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:30:39] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

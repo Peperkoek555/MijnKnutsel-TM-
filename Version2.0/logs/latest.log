@@ -1,0 +1,101 @@
+[19:57:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:57:59] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:57:59] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:57:59] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:58:01] [Server thread/INFO]: Starting minecraft server version 1.15.1
+[19:58:02] [Server thread/INFO]: Loading properties
+[19:58:02] [Server thread/INFO]: Default game type: SURVIVAL
+[19:58:02] [Server thread/INFO]: Generating keypair
+[19:58:01] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: De ingang is ongeldig
+	at java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:273) ~[?:?]
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:290) ~[?:?]
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[?:?]
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284) ~[?:?]
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326) ~[?:?]
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178) ~[?:?]
+	at java.io.InputStreamReader.read(InputStreamReader.java:185) ~[?:?]
+	at java.io.BufferedReader.fill(BufferedReader.java:161) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:326) ~[?:?]
+	at java.io.BufferedReader.readLine(BufferedReader.java:392) ~[?:?]
+	at wd$2.run(SourceFile:109) [server.jar:?]
+[19:58:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:58:02] [Server thread/INFO]: Using default channel type
+[19:58:06] [Server thread/INFO]: Preparing level "world"
+[19:58:06] [Server thread/WARN]: Couldn't get pack info for: yg: 'pack.mcmeta' in ResourcePack '.\world\datapacks\VanillaTweaks_d821170_UNZIP_ME.zip'
+[19:58:06] [Server thread/INFO]: Reloading ResourceManager: Default, afk display v1.0.1.zip, customizable armor stands v2.4.0.zip, double shulker shells v1.0.3.zip, kill empty boats v1.0.0.zip, more mob heads v2.1.0.zip, multiplayer sleep v1.0.1.zip, player head drops v1.0.0.zip, tag v2.0.0.zip, villager workstation highlights v1.0.0.zip
+[19:58:10] [Server thread/INFO]: Loaded 6 recipes
+[19:58:10] [Server thread/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[19:58:10] [Server thread/INFO]: Loaded 63 custom command functions
+[19:58:11] [Server thread/INFO]: Loaded 837 advancements
+[19:58:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:58:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:58:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:58:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:58:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:58:13] [Server thread/INFO]: Preparing spawn area: 0%
+[19:58:14] [Server thread/INFO]: Preparing spawn area: 83%
+[19:58:14] [Server thread/INFO]: Time elapsed: 3089 ms
+[19:58:14] [Server thread/INFO]: Done (8.239s)! For help, type "help"
+[19:59:58] [User Authenticator #1/INFO]: UUID of player langstaart006 is 3f92f0cd-eeef-41a0-82a5-dc91d9412edf
+[19:59:58] [Server thread/INFO]: langstaart006[/25.86.118.77:56489] logged in with entity id 247 at (170.9537982225704, 69.0, -178.31241873585478)
+[19:59:58] [Server thread/INFO]: langstaart006 joined the game
+[20:00:36] [Server thread/INFO]: <langstaart006> snork
+[20:14:38] [Server thread/INFO]: langstaart006 lost connection: Disconnected
+[20:14:38] [Server thread/INFO]: langstaart006 left the game
+[20:18:24] [User Authenticator #2/INFO]: UUID of player langstaart006 is 3f92f0cd-eeef-41a0-82a5-dc91d9412edf
+[20:18:24] [Server thread/INFO]: langstaart006[/25.86.118.77:56548] logged in with entity id 2915 at (281.30000001192093, 31.0, -205.13486351719672)
+[20:18:24] [Server thread/INFO]: langstaart006 joined the game
+[20:22:01] [User Authenticator #3/INFO]: UUID of player ThatMax is 3219ff67-8608-4672-886a-de789a8eca3d
+[20:22:01] [Server thread/INFO]: ThatMax[/25.83.135.57:57985] logged in with entity id 3562 at (348.20295691242904, 65.0, -39.873018368525074)
+[20:22:01] [Server thread/INFO]: ThatMax joined the game
+[20:43:04] [Server thread/INFO]: Villager axt['Librarian'/245, l='world', x=257.37, y=67.00, z=-211.49] died, message: 'Librarian was slain by Zombie'
+[21:01:31] [Server thread/INFO]: ThatMax lost connection: Disconnected
+[21:01:31] [Server thread/INFO]: ThatMax left the game
+[21:02:19] [User Authenticator #4/INFO]: UUID of player ThatMax is 3219ff67-8608-4672-886a-de789a8eca3d
+[21:02:19] [Server thread/INFO]: ThatMax[/25.83.135.57:62969] logged in with entity id 16336 at (349.898419261444, 67.0, -34.11967912402845)
+[21:02:19] [Server thread/INFO]: ThatMax joined the game
+[21:05:59] [Server thread/INFO]: ThatMax lost connection: Disconnected
+[21:05:59] [Server thread/INFO]: ThatMax left the game
+[21:06:22] [User Authenticator #5/INFO]: UUID of player ThatMax is 3219ff67-8608-4672-886a-de789a8eca3d
+[21:06:22] [Server thread/INFO]: ThatMax[/25.83.135.57:63501] logged in with entity id 17634 at (368.58942126577756, 73.5, -34.905155831261126)
+[21:06:22] [Server thread/INFO]: ThatMax joined the game
+[21:13:21] [Server thread/INFO]: langstaart006 has made the advancement [Ice Bucket Challenge]
+[21:28:25] [Server thread/INFO]: <langstaart006> snork
+[21:38:59] [Server thread/INFO]: <ThatMax> snrokn
+[21:41:01] [Server thread/INFO]: ThatMax lost connection: Disconnected
+[21:41:01] [Server thread/INFO]: ThatMax left the game
+[21:41:26] [User Authenticator #6/INFO]: UUID of player ThatMax is 3219ff67-8608-4672-886a-de789a8eca3d
+[21:41:26] [Server thread/INFO]: ThatMax[/25.83.135.57:51415] logged in with entity id 29047 at (360.5035115548191, 70.0, -28.61014579732034)
+[21:41:26] [Server thread/INFO]: ThatMax joined the game
+[21:45:22] [Server thread/INFO]: langstaart006 lost connection: Disconnected
+[21:45:22] [Server thread/INFO]: langstaart006 left the game
+[21:50:48] [Server thread/INFO]: com.mojang.authlib.GameProfile@1ec60bef[id=<null>,name=langstaart006,properties={},legacy=false] (/25.86.118.77:57115) lost connection: Disconnected
+[21:51:52] [User Authenticator #7/INFO]: UUID of player langstaart006 is 3f92f0cd-eeef-41a0-82a5-dc91d9412edf
+[21:51:52] [Server thread/INFO]: langstaart006[/25.86.118.77:57287] logged in with entity id 30982 at (603.6335567220913, 79.0, -269.03746875092946)
+[21:51:52] [Server thread/INFO]: langstaart006 joined the game
+[21:57:36] [Server thread/INFO]: langstaart006 lost connection: Disconnected
+[21:57:36] [Server thread/INFO]: langstaart006 left the game
+[21:58:12] [User Authenticator #8/INFO]: UUID of player langstaart006 is 3f92f0cd-eeef-41a0-82a5-dc91d9412edf
+[21:58:12] [Server thread/INFO]: langstaart006[/25.86.118.77:57390] logged in with entity id 32884 at (591.2364602047855, 80.0, -266.63358704683384)
+[21:58:12] [Server thread/INFO]: langstaart006 joined the game
+[22:00:25] [Server thread/INFO]: <langstaart006> snortk
+[22:23:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=2327, y=64, z=571} fk{x=2326, y=62, z=570}
+[22:32:27] [Server thread/INFO]: <langstaart006> skakker
+[22:43:09] [Server thread/INFO]: <ThatMax> smaarkt
+[22:44:06] [Server thread/INFO]: <ThatMax> 1350 900
+[22:45:02] [Server thread/INFO]: Stopping server
+[22:45:02] [Server thread/INFO]: Saving players
+[22:45:02] [Server thread/INFO]: ThatMax lost connection: Internal Exception: java.lang.StackOverflowError
+[22:45:02] [Server thread/INFO]: ThatMax left the game
+[22:45:02] [Server thread/INFO]: Saving worlds
+[22:45:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[22:45:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:45:02] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[22:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:45:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[22:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:45:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:45:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
